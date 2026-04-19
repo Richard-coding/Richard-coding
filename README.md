@@ -8,6 +8,10 @@ Atualmente, desenvolvo projetos práticos com **JavaScript e React**, buscando e
 
 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e aplicar na prática os conhecimentos que venho adquirindo.
 
+🔗 Onde me encontrar
+- 💼 <a href="https://www.linkedin.com/in/richard-coding/" target="_blank">LinkedIn</a>
+- 📧 <a href="mailto:richardcoding@outlook.com">richardcoding@outlook.com</a>
+
 ---
     
 ### 🤖 Linguagens e Tecnologias
@@ -90,16 +94,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-codi
 />
 </div>
 
----
-
-## 🔗 Onde me encontrar
-
-<div>
-  <a href="https://www.linkedin.com/in/richard-coding/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  </a>
-
-  <a href="mailto:richardcoding@outlook.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
-  </a>
-</div>
