@@ -77,7 +77,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div>
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=richard-coding&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
