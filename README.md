@@ -6,10 +6,6 @@ Me chamo Richard, sou estudante de **Análise e Desenvolvimento de Sistemas**, c
 Atualmente, desenvolvo projetos práticos com **JavaScript e React**, buscando evoluir na lógica de programação, organização de código e construção de aplicações.
 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e aplicar na prática os conhecimentos que venho adquirindo.
 
-🔗 Onde me encontrar
-
-- 💼 <a href="https://www.linkedin.com/in/richard-coding/" target="_blank"> LinkedIn</a>  📧 <a href="mailto:richardcoding@outlook.com">E-mail</a>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
