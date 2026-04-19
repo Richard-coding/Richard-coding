@@ -3,17 +3,16 @@
 **`Desenvolvedor Front-End`**
 
 Me chamo Richard, sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Front-end**.
-
 Atualmente, desenvolvo projetos práticos com **JavaScript e React**, buscando evoluir na lógica de programação, organização de código e construção de aplicações.
-
 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e aplicar na prática os conhecimentos que venho adquirindo.
 
 🔗 Onde me encontrar
-- 💼 <a href="https://www.linkedin.com/in/richard-coding/" target="_blank">LinkedIn</a>
-- 📧 <a href="mailto:richardcoding@outlook.com">richardcoding@outlook.com</a>
+
+- 💼 <a href="https://www.linkedin.com/in/richard-coding/" target="_blank"> LinkedIn</a>
+- 📧 <a href="mailto:richardcoding@outlook.com">E-mail</a>
 
 ---
-    
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -69,6 +68,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br/>
 
 💡 Atualmente estudando:
+
 - React
 - TypeScript
 - Boas práticas e arquitetura de aplicações Front-end
@@ -77,20 +77,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ### 📊 Estatísticas
 
-<div>
-<img 
-align="left" 
-alt="GitHub Stats" 
-height="200" 
-style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=richard-coding&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-align="left" 
-alt="Top Langs" 
-height="200" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-coding&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=richard-coding&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-coding&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" 
+  />
 </div>
-
