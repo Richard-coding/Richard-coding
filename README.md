@@ -8,8 +8,7 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e apli
 
 🔗 Onde me encontrar
 
-- 💼 <a href="https://www.linkedin.com/in/richard-coding/" target="_blank"> LinkedIn</a>
-- 📧 <a href="mailto:richardcoding@outlook.com">E-mail</a>
+- 💼 <a href="https://www.linkedin.com/in/richard-coding/" target="_blank"> LinkedIn</a>  📧 <a href="mailto:richardcoding@outlook.com">E-mail</a>
 
 ---
 
