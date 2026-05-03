@@ -8,7 +8,7 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e apli
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
 align="left" 
@@ -62,23 +62,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br/>
 <br/>
 
-💡 Atualmente estudando:
+Atualmente estudando:
 
 - React
 - TypeScript
 - Boas práticas e arquitetura de aplicações Front-end
-
----
-
-### 📊 Estatísticas
-
-<div>
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=richard-coding&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-coding&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" 
-  />
-</div>
