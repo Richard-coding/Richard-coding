@@ -66,4 +66,4 @@ Atualmente estudando:
 
 - React
 - TypeScript
-- Boas práticas e arquitetura de aplicações Front-end
+- Tailwind CSS
