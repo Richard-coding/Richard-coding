@@ -1,11 +1,10 @@
 # Richard Soares Mesquita
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento Front-end**
+**Desenvolvedor Front-end | Formação em Análise e Desenvolvimento de Sistemas**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Front-end. Minha trajetória
-começou com HTML e CSS, avançou para JavaScript, React e TypeScript e hoje inclui projetos práticos e participação
-no desenvolvimento de sistemas reais com auxílio de inteligência artificial. Busco uma oportunidade de estágio para
-aplicar meus conhecimentos e continuar evoluindo profissionalmente.
+Sou desenvolvedor Front-end, com formação em Análise e Desenvolvimento de Sistemas. Minha trajetória começou com HTML e CSS, evoluindo para JavaScript, React e TypeScript. Ao longo desse percurso, desenvolvi projetos práticos para consolidar meus conhecimentos em construção de interfaces, lógica de programação e desenvolvimento web.
+
+Atualmente, busco minha primeira oportunidade profissional na área de tecnologia, onde possa aplicar meus conhecimentos, adquirir experiência e continuar evoluindo como desenvolvedor.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
