@@ -68,3 +68,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 />
 
 <br/>
+
+---
+
+### Projetos
+
+| Projeto | Descrição | Tecnologias | Links |
+| --- | --- | --- | --- |
+| Raízes do Nordeste | Delivery de comida nordestina com cardápio, carrinho, cupom, pontos e pedido simulado (projeto acadêmico) | React, TypeScript, React Router, Tailwind CSS | [Demo](https://raizes-do-nordeste-gamma.vercel.app) · [Código](https://github.com/Richard-coding/raizes-do-nordeste) |
+| Entertainment Web App | Filmes e séries com busca, favoritos e navegação por rotas (desafio Frontend Mentor) | React, TypeScript, React Router, Tailwind CSS | [Demo](https://entertainment-app-theta-lilac.vercel.app) · [Código](https://github.com/Richard-coding/entertainment-app) |
+| Weather App | Previsão do tempo com dados reais da API Open-Meteo e troca de unidades (desafio Frontend Mentor) | React, JavaScript, Tailwind CSS | [Demo](https://weather-app-kohl-nine-46.vercel.app) · [Código](https://github.com/Richard-coding/weather-app) |
+
+Também no perfil: [twitter-react](https://github.com/Richard-coding/twitter-react), rede social feita em dupla
+para aprendizado (React + NestJS), incompleta e descontinuada.
